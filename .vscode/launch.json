@@ -1,0 +1,29 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "example_wallet",
+      "request": "launch",
+      "type": "dart",
+      "program": "example/wallet/lib/main.dart",
+      "flutterMode": "debug"
+    },
+    {
+      "name": "example_dapp",
+      "request": "launch",
+      "type": "dart",
+      "program": "example/dapp/lib/main.dart",
+      "flutterMode": "debug"
+    },
+    {
+      "name": "tests",
+      "type": "dart",
+      "request": "launch",
+      "program": "test/",
+      "args": ["--dart-define", "TEST_RELAY_URL=ws://0.0.0.0:8080"],
+      "templateFor": "run-test",
+      "console": "debugConsole",
+      "runTestsOnDevice": false
+    }
+  ]
+}
