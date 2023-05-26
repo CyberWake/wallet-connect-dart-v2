@@ -3,7 +3,7 @@
   "packages": [
     {
       "name": "_fe_analyzer_shared",
-      "rootUri": "file:///Users/cyberwake/.pub-cache/hosted/pub.dev/_fe_analyzer_shared-60.0.0",
+      "rootUri": "file:///Users/cyberwake/.pub-cache/hosted/pub.dev/_fe_analyzer_shared-61.0.0",
       "packageUri": "lib/",
       "languageVersion": "2.17"
     },
@@ -15,7 +15,7 @@
     },
     {
       "name": "analyzer",
-      "rootUri": "file:///Users/cyberwake/.pub-cache/hosted/pub.dev/analyzer-5.12.0",
+      "rootUri": "file:///Users/cyberwake/.pub-cache/hosted/pub.dev/analyzer-5.13.0",
       "packageUri": "lib/",
       "languageVersion": "2.19"
     },
@@ -93,7 +93,7 @@
     },
     {
       "name": "built_value",
-      "rootUri": "file:///Users/cyberwake/.pub-cache/hosted/pub.dev/built_value-8.5.0",
+      "rootUri": "file:///Users/cyberwake/.pub-cache/hosted/pub.dev/built_value-8.6.0",
       "packageUri": "lib/",
       "languageVersion": "2.12"
     },
@@ -153,9 +153,9 @@
     },
     {
       "name": "csslib",
-      "rootUri": "file:///Users/cyberwake/.pub-cache/hosted/pub.dev/csslib-0.17.2",
+      "rootUri": "file:///Users/cyberwake/.pub-cache/hosted/pub.dev/csslib-0.17.3",
       "packageUri": "lib/",
-      "languageVersion": "2.12"
+      "languageVersion": "2.19"
     },
     {
       "name": "dart_style",
@@ -201,9 +201,9 @@
     },
     {
       "name": "glob",
-      "rootUri": "file:///Users/cyberwake/.pub-cache/hosted/pub.dev/glob-2.1.1",
+      "rootUri": "file:///Users/cyberwake/.pub-cache/hosted/pub.dev/glob-2.1.2",
       "packageUri": "lib/",
-      "languageVersion": "2.15"
+      "languageVersion": "2.19"
     },
     {
       "name": "graphs",
@@ -267,9 +267,9 @@
     },
     {
       "name": "json_serializable",
-      "rootUri": "file:///Users/cyberwake/.pub-cache/hosted/pub.dev/json_serializable-6.6.2",
+      "rootUri": "file:///Users/cyberwake/.pub-cache/hosted/pub.dev/json_serializable-6.7.0",
       "packageUri": "lib/",
-      "languageVersion": "2.19"
+      "languageVersion": "3.0"
     },
     {
       "name": "lints",
@@ -291,7 +291,7 @@
     },
     {
       "name": "matcher",
-      "rootUri": "file:///Users/cyberwake/.pub-cache/hosted/pub.dev/matcher-0.12.15",
+      "rootUri": "file:///Users/cyberwake/.pub-cache/hosted/pub.dev/matcher-0.12.16",
       "packageUri": "lib/",
       "languageVersion": "2.18"
     },
@@ -507,19 +507,19 @@
     },
     {
       "name": "test",
-      "rootUri": "file:///Users/cyberwake/.pub-cache/hosted/pub.dev/test-1.24.2",
+      "rootUri": "file:///Users/cyberwake/.pub-cache/hosted/pub.dev/test-1.24.3",
       "packageUri": "lib/",
       "languageVersion": "2.18"
     },
     {
       "name": "test_api",
-      "rootUri": "file:///Users/cyberwake/.pub-cache/hosted/pub.dev/test_api-0.5.2",
+      "rootUri": "file:///Users/cyberwake/.pub-cache/hosted/pub.dev/test_api-0.6.0",
       "packageUri": "lib/",
       "languageVersion": "2.18"
     },
     {
       "name": "test_core",
-      "rootUri": "file:///Users/cyberwake/.pub-cache/hosted/pub.dev/test_core-0.5.2",
+      "rootUri": "file:///Users/cyberwake/.pub-cache/hosted/pub.dev/test_core-0.5.3",
       "packageUri": "lib/",
       "languageVersion": "2.18"
     },
@@ -620,7 +620,7 @@
       "languageVersion": "2.17"
     }
   ],
-  "generated": "2023-05-19T12:45:28.929086Z",
+  "generated": "2023-05-26T06:01:46.051958Z",
   "generator": "pub",
   "generatorVersion": "3.0.0"
 }

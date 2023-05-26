@@ -1,3 +1,3 @@
-## 0.0.1
+## 0.0.3
 
-- Initial release of v2 sdk
+- `WCException` is not accessible outside the library. 
